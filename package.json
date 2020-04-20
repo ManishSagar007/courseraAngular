@@ -1,0 +1,32 @@
+{
+  "name": "coursera-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.0",
+    "node-sass": "^4.13.1",
+    "onchange": "^3.3.0",
+    "parallelshell": "^3.0.2",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManishSagar007/courseraAngular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManishSagar007/courseraAngular/issues"
+  },
+  "homepage": "https://github.com/ManishSagar007/courseraAngular#readme"
+}
